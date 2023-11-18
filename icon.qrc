@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>resources/icons/add_task_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/arrow_selector_tool_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/book_2_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/book_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/build_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/check_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/construction_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/delete_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/description_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/download_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/edit_note_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/groups_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/ios_share_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/library_books_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/login_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/logout_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/menu_book_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/notes_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/save_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/search_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/self_improvement_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>resources/icons/settings_applications_FILL0_wght400_GRAD0_opsz24.png</file>
+  </qresource>
+</RCC>
